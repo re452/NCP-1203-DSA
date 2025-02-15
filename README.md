@@ -1,2 +1,2 @@
 # NCP-1203-DSA
-# hai
+I dont know how to use GitHub
